@@ -1,0 +1,101 @@
+station_id,block,district,state_name,latitude,longitude
+DWLR0001,Haveli,Pune,Maharashtra,23.346243,70.450194
+DWLR0002,Haveli,Pune,Maharashtra,14.600704,74.017793
+DWLR0003,Haveli,Pune,Maharashtra,25.675309,82.180591
+DWLR0004,Haveli,Pune,Maharashtra,29.41231,71.564899
+DWLR0005,Haveli,Pune,Maharashtra,18.126124,70.53635
+DWLR0006,Niphad,Nashik,Maharashtra,13.247311,79.096395
+DWLR0007,Niphad,Nashik,Maharashtra,8.636863,73.579078
+DWLR0008,Niphad,Nashik,Maharashtra,23.597227,79.808947
+DWLR0009,Niphad,Nashik,Maharashtra,13.290575,80.606782
+DWLR0010,Niphad,Nashik,Maharashtra,27.426331,70.116978
+DWLR0011,Devanahalli,Bengaluru Rural,Karnataka,27.339662,82.566509
+DWLR0012,Devanahalli,Bengaluru Rural,Karnataka,16.166012,72.798631
+DWLR0013,Devanahalli,Bengaluru Rural,Karnataka,30.973114,76.058702
+DWLR0014,Devanahalli,Bengaluru Rural,Karnataka,10.2259,71.740895
+DWLR0015,Devanahalli,Bengaluru Rural,Karnataka,28.339865,80.867069
+DWLR0016,Malur,Kolar,Karnataka,27.371079,83.135172
+DWLR0017,Malur,Kolar,Karnataka,20.869474,87.516084
+DWLR0018,Malur,Kolar,Karnataka,17.084825,79.936731
+DWLR0019,Malur,Kolar,Karnataka,27.905712,81.133356
+DWLR0020,Malur,Kolar,Karnataka,28.680966,80.392339
+DWLR0021,Mettupalayam,Coimbatore,Tamil Nadu,24.909724,70.824839
+DWLR0022,Mettupalayam,Coimbatore,Tamil Nadu,13.469559,75.208983
+DWLR0023,Mettupalayam,Coimbatore,Tamil Nadu,9.915007,74.190236
+DWLR0024,Mettupalayam,Coimbatore,Tamil Nadu,10.424034,75.003525
+DWLR0025,Mettupalayam,Coimbatore,Tamil Nadu,23.256427,76.566979
+DWLR0026,Melur,Madurai,Tamil Nadu,16.884343,73.771127
+DWLR0027,Melur,Madurai,Tamil Nadu,14.407468,86.859783
+DWLR0028,Melur,Madurai,Tamil Nadu,23.552849,80.964358
+DWLR0029,Melur,Madurai,Tamil Nadu,12.107328,83.124282
+DWLR0030,Melur,Madurai,Tamil Nadu,11.92166,76.830198
+DWLR0031,Sanganer,Jaipur,Rajasthan,31.74856,81.519996
+DWLR0032,Sanganer,Jaipur,Rajasthan,21.366794,82.323057
+DWLR0033,Sanganer,Jaipur,Rajasthan,28.228446,83.967998
+DWLR0034,Sanganer,Jaipur,Rajasthan,13.497154,70.577804
+DWLR0035,Sanganer,Jaipur,Rajasthan,15.570873,74.819336
+DWLR0036,Bilara,Jodhpur,Rajasthan,13.063588,86.972375
+DWLR0037,Bilara,Jodhpur,Rajasthan,29.032823,75.664202
+DWLR0038,Bilara,Jodhpur,Rajasthan,23.730528,77.121374
+DWLR0039,Bilara,Jodhpur,Rajasthan,29.949142,78.259333
+DWLR0040,Bilara,Jodhpur,Rajasthan,14.357124,74.439295
+DWLR0041,Samrala,Ludhiana,Punjab,21.472835,74.729349
+DWLR0042,Samrala,Ludhiana,Punjab,22.030064,86.160812
+DWLR0043,Samrala,Ludhiana,Punjab,17.585612,73.947774
+DWLR0044,Samrala,Ludhiana,Punjab,31.940903,79.171473
+DWLR0045,Samrala,Ludhiana,Punjab,10.181826,70.848095
+DWLR0046,Rajpura,Patiala,Punjab,10.631579,81.294029
+DWLR0047,Rajpura,Patiala,Punjab,27.009905,77.598879
+DWLR0048,Rajpura,Patiala,Punjab,9.524665,76.869147
+DWLR0049,Rajpura,Patiala,Punjab,31.906913,79.524058
+DWLR0050,Rajpura,Patiala,Punjab,31.305881,85.494035
+DWLR0051,Daskroi,Ahmedabad,Gujarat,8.275545,82.972993
+DWLR0052,Daskroi,Ahmedabad,Gujarat,24.361049,79.665466
+DWLR0053,Daskroi,Ahmedabad,Gujarat,14.403805,81.537312
+DWLR0054,Daskroi,Ahmedabad,Gujarat,10.677252,77.825775
+DWLR0055,Daskroi,Ahmedabad,Gujarat,18.889369,87.168687
+DWLR0056,Kadi,Mehsana,Gujarat,29.020471,74.741003
+DWLR0057,Kadi,Mehsana,Gujarat,20.014067,73.215734
+DWLR0058,Kadi,Mehsana,Gujarat,29.903068,85.669334
+DWLR0059,Kadi,Mehsana,Gujarat,15.162675,81.501091
+DWLR0060,Kadi,Mehsana,Gujarat,22.615285,72.751107
+DWLR0061,Sardhana,Meerut,Uttar Pradesh,26.300259,79.708823
+DWLR0062,Sardhana,Meerut,Uttar Pradesh,26.687035,79.546366
+DWLR0063,Sardhana,Meerut,Uttar Pradesh,8.013726,75.834809
+DWLR0064,Sardhana,Meerut,Uttar Pradesh,8.467442,86.723775
+DWLR0065,Sardhana,Meerut,Uttar Pradesh,29.089325,84.96998
+DWLR0066,Fatehabad,Agra,Uttar Pradesh,15.380339,71.042653
+DWLR0067,Fatehabad,Agra,Uttar Pradesh,29.07223,87.04509
+DWLR0068,Fatehabad,Agra,Uttar Pradesh,10.055683,78.747828
+DWLR0069,Fatehabad,Agra,Uttar Pradesh,9.6611,83.690839
+DWLR0070,Fatehabad,Agra,Uttar Pradesh,26.380026,72.311046
+DWLR0071,Kalyandurg,Anantapur,Andhra Pradesh,19.406777,79.896465
+DWLR0072,Kalyandurg,Anantapur,Andhra Pradesh,14.361359,85.703795
+DWLR0073,Kalyandurg,Anantapur,Andhra Pradesh,18.155311,73.812368
+DWLR0074,Kalyandurg,Anantapur,Andhra Pradesh,20.943106,83.138759
+DWLR0075,Kalyandurg,Anantapur,Andhra Pradesh,12.827626,75.610893
+DWLR0076,Adoni,Kurnool,Andhra Pradesh,31.883585,81.697805
+DWLR0077,Adoni,Kurnool,Andhra Pradesh,18.514402,79.316365
+DWLR0078,Adoni,Kurnool,Andhra Pradesh,10.904101,74.044552
+DWLR0079,Adoni,Kurnool,Andhra Pradesh,16.114053,80.589557
+DWLR0080,Adoni,Kurnool,Andhra Pradesh,13.522754,73.963913
+DWLR0081,Depalpur,Indore,Madhya Pradesh,9.703834,81.359853
+DWLR0082,Depalpur,Indore,Madhya Pradesh,13.494603,86.29756
+DWLR0083,Depalpur,Indore,Madhya Pradesh,28.63125,71.275432
+DWLR0084,Depalpur,Indore,Madhya Pradesh,13.712111,82.0416
+DWLR0085,Depalpur,Indore,Madhya Pradesh,13.141683,72.381613
+DWLR0086,Ghatiya,Ujjain,Madhya Pradesh,30.452342,80.278776
+DWLR0087,Ghatiya,Ujjain,Madhya Pradesh,19.344105,84.12315
+DWLR0088,Ghatiya,Ujjain,Madhya Pradesh,27.379928,73.427378
+DWLR0089,Ghatiya,Ujjain,Madhya Pradesh,10.32634,77.758921
+DWLR0090,Ghatiya,Ujjain,Madhya Pradesh,18.165887,78.406444
+DWLR0091,Hansi,Hisar,Haryana,25.49782,82.120562
+DWLR0092,Hansi,Hisar,Haryana,31.619965,71.771522
+DWLR0093,Hansi,Hisar,Haryana,17.662911,76.107447
+DWLR0094,Hansi,Hisar,Haryana,28.680141,74.475814
+DWLR0095,Hansi,Hisar,Haryana,12.565014,78.075044
+DWLR0096,Nilokheri,Karnal,Haryana,18.125159,75.013813
+DWLR0097,Nilokheri,Karnal,Haryana,13.995355,86.618781
+DWLR0098,Nilokheri,Karnal,Haryana,18.635138,85.504284
+DWLR0099,Nilokheri,Karnal,Haryana,21.207807,70.91059
+DWLR0100,Nilokheri,Karnal,Haryana,31.982779,85.048497
