@@ -91,3 +91,15 @@ if selected_station:
     st.line_chart(trend_clean.set_index('reading_ts'))
     if excluded > 0:
         st.caption(f"⚠️ {excluded} readings excluded from chart as likely sensor faults (see Anomaly Detection above)")
+
+# --- Added at the end for Streamlit Cloud Deployment ---
+import pyexasol
+
+def get_connection():
+    return pyexasol.connect(
+        dsn=st.secrets["EXASOL_DSN"],
+        user=st.secrets["EXASOL_USER"],
+        password=st.secrets["EXASOL_PASSWORD"],
+        schema='groundwater',
+        websocket_sslopt={'cert_reqs': 0}
+    )
